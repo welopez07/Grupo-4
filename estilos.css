@@ -1,0 +1,20 @@
+#menu{
+    margin-bottom: 80px;
+}
+#boton_registro{
+    background-color:beige ;
+    padding: 8px;
+}
+
+.caja{
+    background-color: cadetblue;
+    padding: 50px 100px;
+    color:black;
+    text-align: justify;
+    margin: 200px 100px;
+    border: outset rgb(0, 238, 255) 4px;
+}
+
+.carousel img{
+    height: 70vh;
+}
